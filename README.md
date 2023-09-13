@@ -8,7 +8,7 @@
   
 ><div style="justify-content: center" >
 > <!--Карточка профиля: -->
-<img  style="width: 120%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HADJIBAEV&theme=solarized_dark" alt=""><br>
+<img  style="width: 100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HADJIBAEV&theme=solarized_dark" alt=""><br>
 > <!--Статистика языков в коммитах:--> 
 >  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HADJIBAEV&theme=solarized_dark" alt=""> -->
 > <!--Статистика языков в репозиториях:-->
