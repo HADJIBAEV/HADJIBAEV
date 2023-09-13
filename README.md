@@ -6,7 +6,7 @@
 <h4>- 🌱 I’m currently learning Golang, PostgreSQL </h4>
 <h4>- 📫 How to reach me: hadjibaevkahramon@gmail.com </h4>
   
-><div style="text-align:center">
+><div style="text-align:center; align-items: center; align="center";">
 > <!--Карточка профиля: -->
 >   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HADJIBAEV&theme=solarized_dark" alt=""><br>
 > <!--Статистика языков в коммитах:--> 
