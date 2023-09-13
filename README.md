@@ -7,4 +7,4 @@
 - 📫 How to reach me: ...
 
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HADJIBAEV&theme=solarized_dark)
+<h1 align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HADJIBAEV&theme=solarized_dark) </h1>
