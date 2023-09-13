@@ -6,15 +6,15 @@
 <h4>- 🌱 I’m currently learning Golang, PostgreSQL </h4>
 <h4>- 📫 How to reach me: hadjibaevkahramon@gmail.com </h4>
   
-><div style="text-align:center; align-items: center; align="center";">
+><div style="text-align:center; align-items: center; align-content: center" >
 > <!--Карточка профиля: -->
->   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HADJIBAEV&theme=solarized_dark" alt=""><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HADJIBAEV&theme=solarized_dark" alt=""><br>
 > <!--Статистика языков в коммитах:--> 
->   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HADJIBAEV&theme=solarized_dark" alt="">
+>  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HADJIBAEV&theme=solarized_dark" alt=""> -->
 > <!--Статистика языков в репозиториях:-->
->   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HADJIBAEV&theme=solarized_dark" alt="">
+> <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HADJIBAEV&theme=solarized_dark" alt=""> -->
 > <!--Статистика профиля:--> 
->   <br><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HADJIBAEV&theme=solarized_dark" alt="" /> 
+> <!--  <br><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HADJIBAEV&theme=solarized_dark" alt="" /> -->
 > <!--Данные по коммитам за сутки:--> 
->   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HADJIBAEV&theme=solarized_dark" alt="">
+> <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HADJIBAEV&theme=solarized_dark" alt=""> -->
 ></div>
