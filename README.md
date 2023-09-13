@@ -5,4 +5,6 @@
 - 🔭 I’m currently working on my Portfolio Website...
 - 🌱 I’m currently learning Golang, PostgreSQL
 - 📫 How to reach me: ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HADJIBAEV)](https://github.com/HADJIBAEV/github-readme-stats)
+
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HADJIBAEV&theme=solarized_dark)
